@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFS文件资源管理器", "SimpleFS文件资源管理器\SimpleFS文件资源管理器.csproj", "{5923ACC1-97F1-4F69-962B-E045DCB332EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Debug|x64.ActiveCfg = Debug|x64
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Debug|x64.Build.0 = Debug|x64
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{5923ACC1-97F1-4F69-962B-E045DCB332EB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3067FEF9-C943-47D5-9E04-155F9A9FD690}
+	EndGlobalSection
+EndGlobal
